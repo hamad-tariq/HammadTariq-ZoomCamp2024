@@ -1,0 +1,12 @@
+docker run -it \
+-e POSTGRES_USER="root" \
+-e POSTGRES_PASSWORD="root" \
+-e POSTGRES_DB="ny_taxi" \
+-v $(pwd)/ny_taxi_postgres_data:/var/lib/postgresql/data \
+-p 5432:5432 \
+postgres:13
+
+
+https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+https://d37ci6vzurychx.cloudfront.net/misc/taxi+_zone_lookup.csv
