@@ -26,7 +26,7 @@ Before ingesting the data, we will need to initialize docker container and then 
 
 ✅ Docker installation and environment setup ([check here](https://youtu.be/EYNwNlOrpr0?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb)
 
-~ [pgcli](https://pypi.org/project/pgcli/) installation
+✅ [pgcli](https://pypi.org/project/pgcli/) installation
 
 ✅ [NY_taxi dataset](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
