@@ -217,3 +217,5 @@ To get more guidance on the zoomcamp follow on [Instagram](https://www.instagram
 
 - [hamad-tariq](https://github.com/hamad-tariq)
 
+- [LinkedIn](https://www.linkedin.com/in/hammadtariq-data-engineer/)
+
